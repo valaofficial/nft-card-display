@@ -1,0 +1,10 @@
+.grey-bg{
+    background-color: #26262699;
+}
+
+.grey-bg{
+    transition: all 300ms ease-in-out;
+}
+.grey-bg:hover{
+    background-color: #262626e1;
+}
